@@ -9,7 +9,7 @@ Practical guides and ideas for amateur radio operators.
 A good desk mat can improve your operating workflow by keeping essential references like Q codes, band plans, and phonetic alphabet visible.
 
 Custom desk mats designed for operators:
-👉 h[ttps://bilmiss.com](https://bilmiss.com/collections/ham-radio-desk-mats)
+👉 [https://bilmiss.com](https://bilmiss.com/collections/ham-radio-desk-mats)
 
 ---
 
